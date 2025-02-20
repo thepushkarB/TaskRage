@@ -24,8 +24,8 @@
 
 ## Demo
 🔗 **Live Demo:** [TaskRage](https://taskrage.netlify.app/)
-(./src/assets/ss1.png)
-(./src/assets/ss2.png)
+./src/assets/ss1.png
+./src/assets/ss2.png
 
 
 
