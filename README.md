@@ -67,7 +67,7 @@ The application will be accessible at [http://localhost:5173](http://localhost:5
 
 - [ReactJS](https://react.dev/)
 - [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- [Smoljames](https://www.youtube.com/@Smoljames)
 
 ## Project Structure
 
