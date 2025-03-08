@@ -12,7 +12,6 @@
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
-- [Project Structure](#project-structure)
 
 ## Features
 
@@ -71,19 +70,5 @@ npm run dev
 - [Vite](https://vitejs.dev/)
 - [Smoljames](https://www.youtube.com/@Smoljames)
 
-## Project Structure
-
-```
-TaskRage/
-│── src/
-│   ├── components/  # Reusable UI components
-│   ├── contexts/    # Context API for state management
-│   ├── assets/      # Images and icons
-│   ├── App.jsx      # Main application logic
-│   ├── main.jsx     # Entry point
-│── public/          # Static assets
-│── index.html       # Main HTML file
-│── package.json     # Project dependencies
-```
 
 Get things done. No excuses. ⚡
